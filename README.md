@@ -6,3 +6,5 @@ We found twitter data that mentioned either Donald Trump or Joe Biden, the two l
 
 1. People use Twitter more frequently to externalize negative rather than positive sentiment
 2. The prediction gives Biden a win in almost every state (biased), so that we tend to conclude that active Twitter users are more prone to support the Democratic Party
+
+For more details abpout the study, check out the report pdf file.
